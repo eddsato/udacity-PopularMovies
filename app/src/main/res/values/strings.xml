@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="sort_popularity">Popularity</string>
+    <string name="sort_top_rated">Top rated</string>
+    <string name="details_release">Release date:</string>
+    <string name="details_vote">Vote Average:</string>
+    <string name="description_poster">Imagem ilustrando o cartaz do filme selecionado</string>
+</resources>
